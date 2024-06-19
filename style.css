@@ -9,6 +9,8 @@ body {
     .part1 {
       color: red;
       text-align: center;
+      border-style: inherit;
+      border-width: 10px;
     }
     .part2 {
         color: darkgreen;
