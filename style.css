@@ -35,7 +35,7 @@ body {
         color: darkgoldenrod;
         text-align: center;
     }
-    .part1 {border-style: inherit;
-        border-width: 8px;
-        border-color: black;}
   }
+  .part1 {border-style: inherit;
+    border-width: 8px;
+    border-color: black;}
