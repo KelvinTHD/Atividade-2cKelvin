@@ -36,6 +36,18 @@ body {
         text-align: center;
     }
   }
-  .part1 {border-style: inset;
+  .part1 {
+    border-style: ridge;
     border-width: 8px;
-    border-color: black;}
+    border-color: black;
+  }
+  .part2 {
+    border-color: fuchsia;
+    border-style: ridge;
+    border-width: 8px;
+  }
+  .part3 {
+    border-color: slateblue;
+    border-style: ridge;
+    border-width: 8px;
+  }
