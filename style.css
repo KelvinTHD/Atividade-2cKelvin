@@ -36,6 +36,6 @@ body {
         text-align: center;
     }
   }
-  .part1 {border-style: inherit;
+  .part1 {border-style: inset;
     border-width: 8px;
     border-color: black;}
