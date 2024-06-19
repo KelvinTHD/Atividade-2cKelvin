@@ -36,5 +36,6 @@ body {
         text-align: center;
     }
     .part1 {border-style: inherit;
-        border-width: 8px;}
+        border-width: 8px;
+        border-color: black;}
   }
